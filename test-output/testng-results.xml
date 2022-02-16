@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-04T16:51:37 CST" name="Default suite" finished-at="2022-02-04T16:51:55 CST" duration-ms="17190">
+    <groups>
+    </groups>
+    <test started-at="2022-02-04T16:51:37 CST" name="Default test" finished-at="2022-02-04T16:51:55 CST" duration-ms="17190">
+      <class name="Tests.formTesting">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.formTesting@7b9a4292]" started-at="2022-02-04T16:51:37 CST" name="setup" finished-at="2022-02-04T16:51:54 CST" duration-ms="16582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testFormFill()[pri:0, instance:Tests.formTesting@7b9a4292]" started-at="2022-02-04T16:51:54 CST" name="testFormFill" finished-at="2022-02-04T16:51:55 CST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFormFill -->
+      </class> <!-- Tests.formTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
